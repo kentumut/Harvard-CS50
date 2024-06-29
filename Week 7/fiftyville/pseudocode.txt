@@ -1,0 +1,52 @@
+Goal:
+Who the thief is == Bruce
+What city the thief escaped to == New York City
+Who the thief’s accomplice is who helped them escape == Robin
+
+took place on July 28, 2021 and that it took place on Humphrey Street.
+
+check flights out of fiftyville
+first flight is id 36
+People in phone call ids 221, 224, 233, 251, 254,255,261,279,281
+LICENSE Plate is in these bakery security ids 258-267
+ACCOUNT number within transaction id 246,264,266,267,269,288,313,336
+
+The cities are within flight ids 18,23,36,43,53
+airport id = 8
+
+ATM Leggett Street money withdrawal
+person on the phone purchased the flight
+
+Theft of the CS50 duck took place at 10:15am at the Humphrey Street bakery.
+Interviews were conducted today with three witnesses who were present at the time –
+each of their interview transcripts mentions the bakery.
+
+
+Sometime within ten minutes of the theft, I saw the thief get into a car in the bakery parking lot and drive away.
+If you have security footage from the bakery parking lot, you might want to look for cars that left the parking lot
+in that time frame.
+
+I don't know the thief's name, but it was someone I recognized.
+Earlier this morning, before I arrived at Emma's bakery,
+I was walking by the ATM on Leggett Street and saw the thief there withdrawing some money.
+
+As the thief was leaving the bakery, they called someone who talked to them for less than a minute.
+In the call, I heard the thief say that they were planning to take the earliest flight out of
+Fiftyville tomorrow. The thief then asked the person on the other end of the phone to purchase the flight ticket.
+
+crime ID = 295
+time 10:15 am July 28, 2021
+
+
+
+
+ crime_scene_reports
+ interviews
+ atm_transactions
+ bank_acounts
+ airports
+ flights
+ passengers
+ phone_calls
+ people
+ bakery_security_logs

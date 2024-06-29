@@ -1,0 +1,3 @@
+get a string input
+string.h
+scope into the array and check if the values increment by 1

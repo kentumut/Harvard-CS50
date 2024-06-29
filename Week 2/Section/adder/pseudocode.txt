@@ -1,0 +1,1 @@
+function taking drei ints , they should be positive, sum of two > than the third

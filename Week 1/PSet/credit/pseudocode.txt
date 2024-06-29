@@ -1,0 +1,9 @@
+ask user for credit card number (use get_long)
+analyze the number using the if its fake or real (use the modulus operator 10 divide by 100 repeat till its bigger than 0)
+do the same for the second sum start by dividing it by 10
+
+check credit card length
+iterate through the cc and divide by 10 increment (till its smaller than 100) length if its smaller than the threshhold fake
+
+get the first two digits compare with length
+print the card type (AMEX\n)

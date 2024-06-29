@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+Bubble sort
+How do you know?: Buble sort outperforms others in sorted lists. In sorted lists bubble sort needs only a single pass.
+
+sort2 uses: Merge sort
+
+How do you know?: Merge sort outperforms other sorting methods in randomized lists because it's omega is n x (log n)
+
+sort3 uses: Selection sort
+
+How do you know?: Selection sort is the slowest algorithm in sorted list because it's lowerbound is N^2

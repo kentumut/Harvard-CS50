@@ -1,0 +1,7 @@
+cla 26 char long key, first letter of the key = first letter of the new alphabet
+only 1 cla printf usage, return 1
+
+only change alphabetical
+
+make the key lowercase
+if the text is upper if statement

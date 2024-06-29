@@ -1,0 +1,5 @@
+get_string password
+check function bool input string
+if the pass has upper case, a number and a symbol return true, otherwise false
+mutually exclusive, every case will have its bool
+if every variable is true, the function will return true

@@ -1,0 +1,2 @@
+have main have argc and argv
+loop through argv and print out the first characters of the string scoped in argv

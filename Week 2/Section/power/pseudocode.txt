@@ -1,0 +1,2 @@
+prompt user for the array size
+with for loop add each power of 2 to the array

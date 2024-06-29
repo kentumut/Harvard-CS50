@@ -1,0 +1,7 @@
+First ask user for input
+if input is less than 1 or greater than 9 do it again
+
+Loop through the height
+in each level it should print out height - level spaces
+it should print out level times #
+at the end of the every level it should go to a new line

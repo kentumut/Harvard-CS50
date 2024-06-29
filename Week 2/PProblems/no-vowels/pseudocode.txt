@@ -1,0 +1,5 @@
+main function taking parameters
+switch argc  1 print the usage   return 1
+function replace str input output, input argv[1]
+
+a = 6 , e 3 , i 1, o 0,

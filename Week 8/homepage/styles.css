@@ -1,0 +1,19 @@
+#group {
+    width: 100%;
+    height: auto;
+}
+#header-red {
+    background-color: #ff0000;
+}
+#header-green {
+    background-color: #00ff00;
+}
+#header-blue {
+    background-color: #0000ff;
+}
+#header-yellow {
+    background-color: #ffff00;
+}
+#header-orange {
+    background-color: #ffa500;
+}

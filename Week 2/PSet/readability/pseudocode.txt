@@ -1,0 +1,14 @@
+get string sentence
+loop through the sentence
+
+if a space word +
+if  . ? ! sentence +
+if a-z and A-Z letter++
+
+index = 0.0588 * L - 0.296 * S - 15.8
+L = number of letters per 100 words
+S = number of sentences per 100 words
+
+"Grade X" X int  rounded to the nearest int
+if its >1 "Before Grade 1"
+16 or higher "Grade 16+"

@@ -1,0 +1,11 @@
+make functions return
+
+get_cents: ask user the amouny owed (int) (can't be negative)
+
+get_quarters: ( divide the number by 25??) removes 25 from the till the amount is lower than 25
+and return the times
+get_dimes same for 10
+get_nickels same for 5
+get_pennies same for 1
+
+sum all the times and print out the total changes

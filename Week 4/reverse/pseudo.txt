@@ -1,0 +1,10 @@
+BYTE buffer[block_size];
+    fseek(inptr, 0, SEEK_END);
+    long audio_size = ftell(inptr) - sizeof(WAVHEADER);
+    int blocks = audio_size / block_size;
+    for (int i = blocks -1; i >= 0; i--)
+    {
+        fseek(inptr, sizeof(WAVHEADER) + i * block_size, SEEK_SET);
+        fread(buffer, block_size, 1, inptr);
+        fwrite(buffer, block_size, 1, outptr);
+    }

@@ -1,0 +1,2 @@
+compute score = both lower and upper have the same points, return int
+convert the string to all lower then remove the number needed assign the value from the array to it and if its not a letter give 0 point

@@ -1,0 +1,14 @@
+iterate through the string
+(word + key) % 26
+only rotate alphabeticals
+
+if the user doesnt inptu, no command line, more than single cla number usage  return1
+non negative integer  k
+
+wrap around a and z
+
+plaintext:  two spaces
+ciphertext: one space
+
+preserve capital and lowercases
+return 0 succesfully
